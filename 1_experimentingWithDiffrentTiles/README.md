@@ -1,0 +1,1 @@
+It takes some time to load the graphs ,till then zoom drag and watch.
