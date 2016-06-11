@@ -1,0 +1,1 @@
+Enable fullscreen mobile view. And show location using geolocation within a radius.
