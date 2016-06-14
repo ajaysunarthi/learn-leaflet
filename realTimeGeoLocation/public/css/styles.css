@@ -1,0 +1,18 @@
+* { margin: 0; padding: 0; border: 0; }
+
+body {
+	background: url('../assets/grey.png') #f2f2f2;
+	color: #666;
+	font: 14px/18px  sans-serif;
+}
+
+header {
+	width: 100%;
+	text-align: center;
+	line-height: 32px;
+}
+
+h1 {
+	font-size: 30px;
+	font-weight: 400;	
+}
